@@ -1,0 +1,11 @@
+{
+  "name": "jsonrpc-error",
+  "version": "1.0.0",
+  "description": "Standard JSON RPC 2.0 error",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
