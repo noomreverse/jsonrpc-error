@@ -4,7 +4,7 @@ Provides standard JSON RPC 2.0 error.
 
 ## Install
 ```bash
-npm install jsonrpc-error
+npm install node-jsonrpc-error
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ npm install jsonrpc-error
 Import the JSON RPC 2.0 error module:
 
 ```js
-var JsonRpcError = require('jsonrpc-error');
+var JsonRpcError = require('node-jsonrpc-error');
 
 var error = new JsonRpcError(-32600, 'Invalid Request');
 
